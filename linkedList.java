@@ -20,7 +20,7 @@ class ListNode {
     ListNode next;
 
     ListNode(int x) {
-        value = x;
+       this.value = x;
     }
 }
 
